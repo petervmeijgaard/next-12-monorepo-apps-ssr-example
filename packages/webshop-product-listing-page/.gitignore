@@ -1,0 +1,8 @@
+# Directories
+.turbo
+dist
+node_modules
+
+# Files
+*.tsbuildinfo
+.eslintcache

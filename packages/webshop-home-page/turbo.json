@@ -1,0 +1,15 @@
+{
+	"$schema": "https://turbo.build/schema.json",
+	"extends": ["//"],
+	"tasks": {
+		"build": {
+			"outputs": ["dist/**", "tsconfig.build.tsbuildinfo"]
+		},
+		"test": {
+			"outputs": ["coverage/**"]
+		},
+		"lint": {
+			"outputs": [".eslintcache"]
+		}
+	}
+}

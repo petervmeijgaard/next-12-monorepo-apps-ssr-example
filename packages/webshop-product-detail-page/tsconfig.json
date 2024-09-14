@@ -1,0 +1,6 @@
+{
+	"extends": "@total-typescript/tsconfig/tsc/dom/library-monorepo",
+	"compilerOptions": {
+		"jsx": "react-jsx"
+	}
+}

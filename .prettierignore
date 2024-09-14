@@ -1,0 +1,10 @@
+## Files
+pnpm-lock.yaml
+
+## Directories
+.turbo
+
+apps/web/.next
+apps/web/public
+
+packages/**/dist
